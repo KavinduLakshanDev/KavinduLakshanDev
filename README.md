@@ -1,56 +1,60 @@
-<h1 align="center">Hi 👋, I'm Kavindu Lakshan Perera</h1>
-<h3 align="center">🚀 A Passionate Full Stack Developer | MERN Enthusiast | Laravel Artisan</h3>
+<h1 align="center">Hi there 👋, I'm Kavindu Lakshan Perera</h1>
+<h3 align="center">🚀 Full Stack Developer | Laravel Artisan | MERN Stack Explorer | Tech Creator</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kavindulakshandev&label=Profile%20views&color=0e75b6&style=flat" alt="kavindulakshandev" />
+  <img src="https://komarev.com/ghpvc/?username=KavinduLakshanDev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-- 🎓 I'm a **final year undergraduate** at SLIIT, pursuing a BSc (Hons) in Information Technology.
-- 🌱 Currently learning and working with the **MERN Stack**.
-- 💬 Ask me about **Laravel, PHP, Vue.js, React, or Full Stack Development**.
-- 🛠️ I’m building AI-driven and real-time web apps.
-- 📫 Reach me: **kavindulakshanperera12@gmail.com**
-- ⚡ Fun Fact: **You can call me Lakshan!**
+- 🎓 Final year undergraduate at **SLIIT**, BSc (Hons) in Information Technology  
+- 🔭 Currently working on:  
+  &nbsp;&nbsp;&nbsp;&nbsp;🚪 **AI-Powered Boarding House Booking System** (AR + NLP + ML)  
+  &nbsp;&nbsp;&nbsp;&nbsp;📱 Laravel-based mobile & web apps  
+- 🌱 Learning: **MERN Stack**, **AI/ML**, and **React Native**
+- 🛠️ Tech focus: Web Apps, Backend APIs, AI, Full Stack Innovation
+- 💬 Ask me about: **Laravel, PHP, Vue.js, React, Node.js**
+- ⚡ Fun fact: **You can call me Lakshan!**
+- 📫 Email me at: **kavindulakshanperera12@gmail.com**
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://twitter.com/kavindu_lak001" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/kavindu-lakshan-perera-34a790258" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://fb.com/kavindu lakshan perera" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/_kavindu__lakshan_perera_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://twitter.com/kavindu_lak001"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/kavindu-lakshan-perera-34a790258"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://fb.com/kavindu lakshan perera"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://instagram.com/_kavindu__lakshan_perera_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-#### 👨‍💻 Languages & Frameworks
+### 💻 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,vue,react,js,ts,html,css,java,cpp,c,python,nodejs,mysql,mongodb,kotlin,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,vue,react,js,nodejs,html,css,java,c,cpp,mysql,mongodb" />
 </p>
 
-#### 🎨 Design & Tools
+### 🎨 Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ai,bootstrap,vscode,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,bootstrap,androidstudio,ai" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-| ![Kavindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=KavinduLakshanDev&show_icons=true&theme=tokyonight&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KavinduLakshanDev&theme=tokyonight) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KavinduLakshanDev&show_icons=true&theme=tokyonight&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KavinduLakshanDev&theme=tokyonight) |
 | --- | --- |
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KavinduLakshanDev&layout=compact&theme=tokyonight) | ![Trophies](https://github-profile-trophy.vercel.app/?username=KavinduLakshanDev&theme=tokyonight&no-frame=true&margin-w=10) |
 
 ---
 
-### 🐍 GitHub Contribution Snake
+## 🐍 Contribution Graph
 
 <p align="center">
   <img src="https://github.com/KavinduLakshanDev/KavinduLakshanDev/blob/output/github-contribution-grid-snake.svg" />
@@ -58,19 +62,31 @@
 
 ---
 
-### 🔥 Projects & Interests
+## 🚀 Featured Projects
 
-- 🔭 Building an **AI-Powered Boarding House Booking System** with AR, NLP Search, and ML.
-- 🧠 Passionate about **machine learning**, **web systems**, and **mobile apps**.
-- 🚀 Always learning and open to collaboration!
+- 🎯 **AI-Driven Boarding House Booking System**  
+  NLP Search, Augmented Reality room views, ML price prediction — *A next-gen student housing experience.*
+  
+- 💡 **Medical Prescription Upload Platform**  
+  Laravel app for pharmacies to receive scanned prescriptions securely.
 
----
-
-### 💬 Quotes I Live By
-
-> “First, solve the problem. Then, write the code.” – John Johnson  
-> “Strive for progress, not perfection.” – Unknown  
+- 🌐 **Hotel Management System**  
+  Full Laravel-based solution with booking, payment, and admin dashboards.
 
 ---
 
-📢 *Thanks for visiting my profile! Feel free to explore my repositories, leave a ⭐, or connect with me!*
+## 🧠 Currently Learning
+
+- MERN Stack (MongoDB, Express, React, Node.js)  
+- Machine Learning basics for smart search and trend prediction  
+- React Native for mobile cross-platform development
+
+---
+
+## 💬 Favorite Quote
+
+> "Do not pray for an easy life, pray for the strength to endure a difficult one." – Bruce Lee
+
+---
+
+<p align="center">Thanks for stopping by! ✨ Feel free to connect, collaborate, or explore my work. 🙌</p>
