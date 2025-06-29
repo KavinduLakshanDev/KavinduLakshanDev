@@ -10,10 +10,10 @@
 ### 🧑‍💻 About Me
 
 - 🎓 I'm a **final year undergraduate** at SLIIT, pursuing a BSc (Hons) in Information Technology.
-- 🌱 Currently diving deep into the **MERN Stack** to expand my JavaScript ecosystem expertise.
+- 🌱 Currently learning and working with the **MERN Stack**.
 - 💬 Ask me about **Laravel, PHP, Vue.js, React, or Full Stack Development**.
-- 🛠️ Building **AI-integrated systems** and dynamic web applications as side projects.
-- 📫 Reach me at: **kavindulakshanperera12@gmail.com**
+- 🛠️ I’m building AI-driven and real-time web apps.
+- 📫 Reach me: **kavindulakshanperera12@gmail.com**
 - ⚡ Fun Fact: **You can call me Lakshan!**
 
 ---
@@ -43,35 +43,14 @@
 ---
 
 ### 📊 GitHub Stats
-| <img src="https://github-readme-stats.vercel.app/api?username=KavinduLakshanDev&show_icons=true&theme=tokyonight" alt="GitHub stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=KavinduLakshanDev&theme=tokyonight" alt="GitHub streak" /> |
+
+| ![Kavindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=KavinduLakshanDev&show_icons=true&theme=tokyonight&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KavinduLakshanDev&theme=tokyonight) |
 | --- | --- |
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavinduLakshanDev&layout=compact&theme=tokyonight" alt="Top Languages" /> |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KavinduLakshanDev&layout=compact&theme=tokyonight) | ![Trophies](https://github-profile-trophy.vercel.app/?username=KavinduLakshanDev&theme=tokyonight&no-frame=true&margin-w=10) |
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KavinduLakshanDev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
----
-
-### 🚀 Projects & Contributions
-
-- 🔭 Working on an **AI-Driven Boarding House Booking System** with NLP Search, AR Room Previews, and ML-based Dynamic Pricing.
-- 🧠 Exploring ML for **predictive booking trends and automated price adjustments**.
-- 🎯 Developing side projects in React + Vite and full-stack Laravel apps.
-
----
-
-### 📌 Quotes That Keep Me Going
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
-> “The best way to get a project done faster is to start sooner.” – Jim Highsmith
-
----
-
-### 🐍 GitHub Snake Animation
+### 🐍 GitHub Contribution Snake
 
 <p align="center">
   <img src="https://github.com/KavinduLakshanDev/KavinduLakshanDev/blob/output/github-contribution-grid-snake.svg" />
@@ -79,5 +58,19 @@
 
 ---
 
-**Thank you for visiting my profile! 😊 Feel free to explore my repos, give feedback, and connect!**
+### 🔥 Projects & Interests
 
+- 🔭 Building an **AI-Powered Boarding House Booking System** with AR, NLP Search, and ML.
+- 🧠 Passionate about **machine learning**, **web systems**, and **mobile apps**.
+- 🚀 Always learning and open to collaboration!
+
+---
+
+### 💬 Quotes I Live By
+
+> “First, solve the problem. Then, write the code.” – John Johnson  
+> “Strive for progress, not perfection.” – Unknown  
+
+---
+
+📢 *Thanks for visiting my profile! Feel free to explore my repositories, leave a ⭐, or connect with me!*
