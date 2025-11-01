@@ -49,28 +49,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KavinduLakshanDev&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&v=1" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KavinduLakshanDev&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&v=1" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=KavinduLakshanDev&theme=tokyonight&v=1" alt="GitHub Streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavinduLakshanDev&layout=compact&theme=tokyonight&v=1" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KavinduLakshanDev&theme=tokyonight&v=1" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavinduLakshanDev&layout=compact&theme=tokyonight&v=1" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KavinduLakshanDev&theme=tokyonight&no-frame=true&margin-w=10&v=1" alt="GitHub Trophies" />
 </p>
 
 ---
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://github.com/KavinduLakshanDev/KavinduLakshanDev/blob/output/github-contribution-grid-snake.svg" alt="snake graph" />
-</p>
 
 ---
 
