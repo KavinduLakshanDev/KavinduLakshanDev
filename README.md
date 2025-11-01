@@ -49,12 +49,18 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KavinduLakshanDev&show_icons=true&theme=tokyonight&count_private=true&v=1" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KavinduLakshanDev&theme=tokyonight&v=1" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KavinduLakshanDev&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&v=1" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KavinduLakshanDev&theme=tokyonight&v=1" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavinduLakshanDev&layout=compact&theme=tokyonight&v=1" alt="Top Languages" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=KavinduLakshanDev&theme=tokyonight&no-frame=true&margin-w=10&v=1" alt="GitHub Trophies" />
 </p>
 
