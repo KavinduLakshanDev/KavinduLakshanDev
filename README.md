@@ -9,15 +9,14 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Final year undergraduate at **SLIIT**, BSc (Hons) in Information Technology  
-- 🔭 Currently working on:  
-  &nbsp;&nbsp;&nbsp;&nbsp;🚪 **AI-Powered Boarding House Booking System** (AR + NLP + ML)  
-  &nbsp;&nbsp;&nbsp;&nbsp;📱 Laravel-based mobile & web apps  
-- 🌱 Learning: **MERN Stack**, **AI/ML**, and **React Native**
-- 🛠️ Tech focus: Web Apps, Backend APIs, AI, Full Stack Innovation
-- 💬 Ask me about: **Laravel, PHP, Vue.js, React, Node.js**
-- ⚡ Fun fact: **You can call me Lakshan!**
-- 📫 Email me at: **kavindulakshanperera12@gmail.com**
+- 🎓 **BSc (Hons) in Information Technology** graduate from **SLIIT** (Class of 2026)
+- 🔭 **Current Focus:** Scaling AI-integrated web solutions and exploring Cloud Architecture.
+- 🚀 **Featured Work:** Developed an **AI-Powered Boarding House Booking System** featuring AR room visualization, NLP-based search, and ML price forecasting.
+- 🌱 **Learning & Mastering:** Deep diving into the **MERN Stack**, **Microservices**, and **React Native** for cross-platform excellence.
+- 🛠️ **Tech Strategy:** Building robust Backend APIs, seamless UX with Vue/React, and integrating Intelligent Systems (AI/ML).
+- 💬 **Ask me about:** Laravel Ecosystem, PHP, Vue.js, Node.js, and System Design.
+- ⚡ **Fun fact:** You can call me **Lakshan**!
+- 📫 **Reach me at:** [kavindulakshanperera12@gmail.com](mailto:kavindulakshanperera12@gmail.com)
 
 ---
 
