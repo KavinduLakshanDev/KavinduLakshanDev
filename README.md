@@ -60,20 +60,32 @@
 
 ---
 
----
-
 ## 🚀 Featured Projects
 
 - 🎯 **AI-Driven Boarding House Booking System**  
-  NLP Search, Augmented Reality room views, ML price prediction — *A next-gen student housing experience.*
-  
+  - **Description:** Next-gen student housing platform with AI-powered search, AR room previews, and ML-based price prediction.  
+  - **Tech:** Laravel, PHP, Vue.js, React, Python (ML), AR frameworks  
+  - **Role:** Full Stack Developer — built backend APIs, integrated AI/ML models, and implemented AR room visualization.
+
 - 💡 **Medical Prescription Upload Platform**  
-  Laravel app for pharmacies to receive scanned prescriptions securely.
+  - **Description:** Secure Laravel app for pharmacies to receive and manage scanned prescriptions.  
+  - **Tech:** Laravel, MySQL, JavaScript, Vue.js  
+  - **Role:** Backend Developer — designed database schemas, implemented secure file upload & retrieval system.
 
 - 🌐 **Hotel Management System**  
-  Full Laravel-based solution with booking, payment, and admin dashboards.
+  - **Description:** Complete hotel booking and management solution with online reservations, payments, and admin dashboards.  
+  - **Tech:** Laravel, PHP, MySQL, Bootstrap, JavaScript  
+  - **Role:** Full Stack Developer — developed booking and payment modules, created responsive dashboards, and implemented role-based access control.
 
----
+- 📦 **Distribution & POS Management System**  
+  - **Description:** Streamlined product distribution and point-of-sale system for retailers.  
+  - **Tech:** Laravel, Vue.js, MySQL  
+  - **Role:** Full Stack Developer — managed inventory tracking, sales reports, and POS integration.
+
+- 💻 **Personal Portfolio & GitHub Projects Showcase**  
+  - **Description:** Interactive portfolio website to showcase projects, skills, and GitHub stats.  
+  - **Tech:** React, Tailwind CSS, GitHub API  
+  - **Role:** Frontend Developer — designed UI, integrated GitHub stats dynamically, and ensured responsive design.
 
 ## 🧠 Currently Learning
 
